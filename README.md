@@ -1,4 +1,4 @@
-
+# Manuel De Almada's Profile
 
 🎓 Information Systems Engineering student at the National University of Costa Rica 
 💻 Passionate about software development, IT infrastructure, and database management.  
