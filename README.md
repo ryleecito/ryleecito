@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Manuel De Almada
 
-🎓 Information Systems Engineering student at the National University of Costa Rica (expected graduation 2026).  
+
+🎓 Information Systems Engineering student at the National University of Costa Rica 
 💻 Passionate about software development, IT infrastructure, and database management.  
 
 ---
